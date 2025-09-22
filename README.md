@@ -1,2 +1,4 @@
-# SC_302_Documentacion_MN_BrendaGranados
-Esta	es	mi	primera	practica	con	GitHub.	
+# SC\_302\_Documentacion\_MN\_BrendaGranados
+
+Esta es	mi primera practica con	GitHub.
+
